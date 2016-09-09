@@ -1,0 +1,15 @@
+.div{
+    padding: 10px;
+    padding-left: 15%;
+    padding-bottom: 30px;
+}
+.biankuang{
+    border-style: dotted;
+    border-radius: 20px;
+    border-width: 2px;
+    background-color: brown;
+    text-align: center;
+    width: 500px;
+    height: 100px;;
+
+}
