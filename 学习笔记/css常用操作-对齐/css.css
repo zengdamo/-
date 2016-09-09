@@ -1,0 +1,10 @@
+.div{
+    width:70%;
+    height: 500px;
+    background-color: bisque;
+    /*margin是用来控制代码框离边距的距离的*/
+    /*margin-left: 20%;*/
+    /*margin-right: 20%;*/
+
+    margin: 100px auto;
+}
